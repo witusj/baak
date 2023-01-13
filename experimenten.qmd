@@ -61,9 +61,7 @@ Wat zou ik kunnen doen om daadwerkelijk te gaan spelen?
 
 -   Welke beloning geef ik mezelf voor het doen van de stap?
 
-### De tafel
-
-![](tafel.png)
+### 
 
 ### Inspiratie
 
@@ -72,6 +70,8 @@ Wat zou ik kunnen doen om daadwerkelijk te gaan spelen?
     -   Wat kan je over een onbekende vertellen?
 
     -   Omgekeerde stoelendans; de koning in zijn koninkrijk
+
+    ![](tafel.png)
 
 ## Experimenten
 
