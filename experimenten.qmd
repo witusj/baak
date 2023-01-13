@@ -25,7 +25,8 @@ editor: visual
 
 Mijn leerpunten hebben te maken met het kunnen verwoorden van mijn grenzen (voor mezelf en naar anderen) en de kern en bron ontdekken van mijn verlangens en behoeftes.
 
-### 
+::: {style="display: flex;"}
+::: {style="column-width: 200px;"}
 
 ### Verlangen
 
@@ -49,9 +50,15 @@ Mijn leerpunten hebben te maken met het kunnen verwoorden van mijn grenzen (voor
 >
 > We zijn trots op hoe we spelen
 >
-> En samen creëren
+> En samen bouwen
+:::
+
+<div style="margin-top: 30px;">
 
 ![](jip.jpeg)
+
+</div>
+:::
 
 Wat zou ik kunnen doen om daadwerkelijk te gaan spelen?
 
