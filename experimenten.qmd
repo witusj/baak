@@ -9,9 +9,9 @@ editor: visual
 
 ## Eerste inzichten
 
-## ![](storing.png)
+![](storing.png)
 
-### Leiderschap gaat over:
+#### Leiderschap gaat over:
 
 -   Visie
 
@@ -25,10 +25,9 @@ editor: visual
 
 Mijn leerpunten hebben te maken met het kunnen verwoorden van mijn grenzen (voor mezelf en naar anderen) en de kern en bron ontdekken van mijn verlangens en behoeftes.
 
-::: {style="display: flex;"}
+::: {style="display: flex; flex-wrap: wrap"}
 ::: {style="column-width: 200px;"}
-
-### Verlangen
+#### Verlangen
 
 > Ik wil spelen
 >
@@ -53,26 +52,12 @@ Mijn leerpunten hebben te maken met het kunnen verwoorden van mijn grenzen (voor
 > En samen bouwen
 :::
 
-<div style="margin-top: 30px;">
-
+::: {style="margin-top: 30px;"}
 ![](jip.jpeg)
-
-</div>
+:::
 :::
 
-Wat zou ik kunnen doen om daadwerkelijk te gaan spelen?
-
--   Wat zou een kleine stap zijn die ik 1x per dag zou kunnen doen?
-
--   Wat zou een grotere stap zijn die ik 1x per week zou kunnen doen?
-
--   Wat zou een groot experiment zijn?
-
--   Welke beloning geef ik mezelf voor het doen van de stap?
-
-### 
-
-### Inspiratie
+#### Inspiratie
 
 -   Leuke oefeningen
 
@@ -86,13 +71,36 @@ Wat zou ik kunnen doen om daadwerkelijk te gaan spelen?
 
 ## Experimenten
 
--   Toen ik weer aan het werk ging, wilde ik heel graag met mijn collega's delen wat ik tijdens de eerste trainingsessie's allemaal heb beleefd. Ik heb daarom een uitnodiging naar iedereen geschreven.\
-    \
+Wat zou ik kunnen doen om daadwerkelijk weer te gaan spelen?
 
-    ![](brief.png)
+-   Wat zou een kleine stap zijn die ik 1x per dag zou kunnen doen?
 
-    Een aantal collega's hebben op de uitnodiging gereageerd. Tijdens de gesprekken hebben we vooral gesproken over verlangens en behoeftes. Met sommigen kon ik dieper gaan en zelfs praten over wonden uit het verleden, moeilijke familiesystemen, etc. Wat ik merkte, was dat iedereen vergelijkbare verlangens en behoeftes had, maar deze om één of andere reden niet uitsprak in het team.
+-   Wat zou een grotere stap zijn die ik 1x per week zou kunnen doen?
 
--   Een belangrijk instrument dat ik heb meegekregen uit de training was de vertraging. Op heel veel momenten, werd ik bewust dat ik mijn hoofd even uit moest zetten. Ik zat dan in stilte te kijken en te luisteren, zonder enige behoefte om ergens op te gaan acteren. Altijd kwam er dan op magische wijze op exact het juiste moment een inzicht of idee langs waarmee ik verder kon.
+-   Wat zou een groot experiment zijn?
 
-    ![](gandalf.jpg)
+-   Welke beloning geef ik mezelf voor het doen van de stap?
+
+#### Vertraging
+
+Een belangrijk instrument dat ik heb meegekregen uit de training was de vertraging. Op heel veel momenten werd ik bewust dat ik mijn hoofd even uit moest zetten. Ik zat dan in stilte te kijken en te luisteren, zonder enige behoefte om ergens op te gaan acteren. Altijd kwam er dan op magische wijze op exact het juiste moment een inzicht of idee langs waarmee ik verder kon.
+
+Ik merk dat ik dit instrument bijna dagelijks bewust gebruik. En dat het altijd werkt, wat op zichzelf een beloning is.
+
+![](gandalf.jpg)
+
+#### Verlangens en behoeftes
+
+Toen ik weer aan het werk ging, wilde ik heel graag met mijn collega's delen wat ik tijdens de eerste trainingsessie's allemaal heb beleefd. Ik heb daarom een uitnodiging naar iedereen geschreven.
+
+![](brief.png)
+
+Een aantal collega's heeft op de uitnodiging gereageerd. Tijdens de gesprekken hebben we vooral gesproken over verlangens en behoeftes. Met sommigen kon ik dieper gaan en zelfs praten over wonden uit het verleden, moeilijke familiesystemen, etc. Wat ik merkte, was dat iedereen vergelijkbare verlangens en behoeftes had, maar deze om één of andere reden niet uitsprak in het team.
+
+Ik merk dat de gesprekken mij heel erg helpen, maar dat ook bij mijn collega's een verlangen is naar echte verbinding. Hier wil ik mee aan de slag en er op letten dat ik iedere week een stukje aan mijn relatie met collega's ga werken.
+
+#### Grenzen
+
+Tot nu toe ben ik hier nog niet bewust mee gaan werken. Tot nu toe was er geen echte gelegenheid (we hebben ook twee weken vakantie gehad). Het is wel een belangrijk thema voor mij. Er is tenminste één collega waar ik regelmatig direct mee te maken heb, die over mijn grenzen gaat. Daar wil ik zeker iets mee gaan doen.
+
+Bovendien heb ik in mijn relatie ook wel eens het gevoel dat ik mijn grenzen niet goed heb bewaakt en aangegeven. Dat levert me stress op en put me uit.
