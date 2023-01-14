@@ -52,7 +52,7 @@ Mijn leerpunten hebben te maken met het kunnen verwoorden van mijn grenzen (voor
 > En samen bouwen
 :::
 
-::: {style="margin-top: 30px;"}
+::: {style="margin-top: 50px;"}
 ![](jip.jpeg)
 :::
 :::
