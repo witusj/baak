@@ -23,6 +23,8 @@ editor: visual
 
 -   Behoeftes
 
+![](boundaries.jpeg)
+
 Mijn leerpunten hebben te maken met het kunnen verwoorden van mijn grenzen (voor mezelf en naar anderen) en de kern en bron ontdekken van mijn verlangens en behoeftes.
 
 ::: {style="display: flex; flex-wrap: wrap"}
